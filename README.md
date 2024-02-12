@@ -1,0 +1,1 @@
+# Palindrome-checker checks if a word is a palindrome or not: Palindrome is a word or group of words that is the same when you read it forwards from the beginning or backwards from the end. It was coded using HTML5, CSS and JavaScript.
